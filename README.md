@@ -35,3 +35,8 @@ export MSYS_NO_PATHCONV=1 && ./start_env.sh
 ```
 
 _NOTE: Execute the script from the repo root directory. The script makes all the source code available inside the docker container as a volume_
+
+## Author
+
+**Badar Rasheed Butt**  
+AI Engineer | Azure Specialist
